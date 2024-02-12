@@ -1,0 +1,23 @@
+.container {
+  @apply flex justify-between items-center p-5 rounded-xl bg-secondary;
+}
+
+.title {
+  @apply capitalize font-bold;
+}
+
+.menu {
+  @apply flex items-center gap-5;
+}
+
+.search {
+  @apply flex items-center gap-3 bg-[#2e374a] pl-2 rounded-xl;
+}
+
+.input {
+  @apply bg-transparent border-none;
+}
+
+.input:focus-visible {
+  @apply focus-visible:outline-none focus-visible:ring-0 focus-visible:ring-ring;
+}
