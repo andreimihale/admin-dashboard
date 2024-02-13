@@ -1,0 +1,7 @@
+.container {
+  @apply bg-muted p-5 rounded-xl;
+}
+
+.title {
+  @apply text-primary font-semibold mb-5;
+}

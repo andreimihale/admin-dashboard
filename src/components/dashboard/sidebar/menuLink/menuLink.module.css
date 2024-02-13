@@ -1,5 +1,5 @@
 .container {
-  @apply flex items-center p-5 gap-3 mx-0 my-1;
+  @apply flex text-sm items-center p-4 gap-3 mx-0 my-1;
 }
 
 .container:hover,

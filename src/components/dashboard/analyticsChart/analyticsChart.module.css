@@ -1,0 +1,9 @@
+.container {
+  @apply h-[30rem] bg-muted p-5 rounded-xl;
+}
+.header {
+  @apply flex flex-row justify-between items-center mb-5;
+}
+.title {
+  @apply text-primary font-semibold items-center self-center;
+}

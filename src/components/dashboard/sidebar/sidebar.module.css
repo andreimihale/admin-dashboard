@@ -27,7 +27,7 @@
 }
 
 .logout {
-  @apply flex items-center p-5 gap-3 mx-0 my-1 cursor-pointer w-full;
+  @apply flex items-center text-sm p-5 gap-3 mx-0 my-1 cursor-pointer w-full;
 }
 
 .logout:hover {
